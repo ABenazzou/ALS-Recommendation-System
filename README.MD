@@ -27,10 +27,12 @@ To set up the PySpark environment, make sure to follow the installation steps fo
 ## Loading and Preprocessing Data
 
 The code begins by loading the MovieLens 100k dataset, including user ratings, movie data, and user data. It preprocesses the data for further analysis and model training.
-Our movies data is composed mainly of 3 parts: 
-• Users datasets: user related information (age, name, occupation …)
-• Movies dataset: movies related information (name, release date, genres …)
-• Ratings dataset: the rating that each user gave for a specific movie.
+Our movies data is composed mainly of 3 parts:
+
+- Users datasets: user related information (age, name, occupation …)
+- Movies dataset: movies related information (name, release date, genres …)
+- Ratings dataset: the rating that each user gave for a specific movie.
+
 
 ## Initial ALS Model
 
